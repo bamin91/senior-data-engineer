@@ -1,4 +1,4 @@
-# Vattenfall Data Engineer Case Study — Execution Guide
+# Senior Data Engineer Case Study — Execution Guide
 
 This repository contains a high-reliability telemetry ingestion pipeline Proof-of-Concept (POC) and an interactive visualization dashboard designed to support Vattenfall's BA Markets data consumers. 
 
